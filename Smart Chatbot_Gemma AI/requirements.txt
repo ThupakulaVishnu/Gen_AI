@@ -1,0 +1,11 @@
+# conda create -p venv python==3.10
+# pip install -r requirements.txt
+# conda activate venv/
+langchain
+python-dotenv
+langchain-openai
+ipykernel
+beautifulsoup4
+langchain_community
+faiss-cpu
+streamlit
